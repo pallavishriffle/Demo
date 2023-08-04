@@ -2,4 +2,4 @@
 
 ruby 3.2.0
 
-we are used only Ruby in this project.
+we only used Ruby in this project.
